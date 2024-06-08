@@ -81,4 +81,21 @@
 		background-clip: text;
 		-webkit-text-fill-color: transparent;
 	}
+
+	.highlight3 {
+		--looking-bg-1: var(--neon-1-2);
+		--looking-bg-2: var(--neon-2-1);
+
+		background: var(--bar-gradient);
+		--bar-gradient: 
+			linear-gradient( 
+				90deg, 
+				var(--looking-bg-1) -45%, 
+				var(--looking-bg-2) 125%
+			);
+
+		-webkit-background-clip: text;
+		background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
 }

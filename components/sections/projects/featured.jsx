@@ -1,6 +1,5 @@
 import FeaturedProject from '../../blocks/projects/featured'
 
-
 // Section structure
 import Section 		from '../../structure/section';
 import Container 	from '../../structure/container';
