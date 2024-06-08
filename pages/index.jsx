@@ -24,3 +24,20 @@ export default function HomePage() {
 		</>
 	);
 }
+
+
+
+
+
+// TODO:
+// 
+// Add current projects instead of placeholder projects
+// Make a photography page to show off photographs I have taken
+// Add a git repos section
+// Make a videography section
+// Update about me from the placeholder
+// Update technical skills section from placeholder
+// Add Favicon and polish UI theme and icons
+// 
+// 
+// 
