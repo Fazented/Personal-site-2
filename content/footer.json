@@ -1,24 +1,9 @@
 {
 	"acknowledgments": [
 		{ 
-			"person": "Jihad Hassan - Marketing Director",
-			"link": "",
-			"note": "Thank you for all the advice and feedback."
-		},
-		{ 
-			"person": "Colorpong - Artist",
-			"link": "ttps://www.youworkforthem.com/designer/536/colorpong?aff=1115",
-			"note": "Checkout their amazing vector illustrations."
-		},
-		{ 
-			"person": "Brittany Chiang - Software Engineer",
-			"link": "https://brittanychiang.com/",
-			"note": "A major inspiration to create an open source theme."
-		},
-		{ 
-			"person": "Vercel - Platform",
-			"link": "https://vercel.com/docs",
-			"note": "Host your own Next.js project for free!"
+			"person": "Andrew Nelson - Web Developer",
+			"link": "https://github.com/atlamors",
+			"note": "Creator of this open source theme."
 		}
 	],
 
@@ -32,19 +17,15 @@
 
 	"social": [
 		{
-			"url": "https://medium.com/@--andrewnelson",
-			"icon": "medium"
+			"url": "https://www.instagram.com/fazented117/",
+			"icon": "instagram"
 		},
 		{
-			"url": "https://dev.to/andrewnelson",
-			"icon": "dev"
-		},
-		{
-			"url": "https://www.linkedin.com/in/--andrewnelson/",
+			"url": "https://www.linkedin.com/in/finn-masters-0221042ba/",
 			"icon": "linkedin"
 		},
 		{
-			"url": "https://github.com/atlamors",
+			"url": "https://github.com/fazented",
 			"icon": "github"
 		}
 	]
