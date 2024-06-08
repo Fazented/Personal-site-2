@@ -41,7 +41,6 @@ build/Release
 jspm_packages/
 
 # Include specific dependencies
-!node_modules/
 node_modules/*
 !node_modules/@fortawesome
 
@@ -106,4 +105,3 @@ dist
 
 # TernJS port file
 .tern-port
-node_modules
