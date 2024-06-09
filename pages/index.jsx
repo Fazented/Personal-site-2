@@ -15,7 +15,10 @@ export default function HomePage() {
 
 	return (
 		<>
-
+			<Head>
+				<title>Finn Masters</title>
+				<meta name="description" content="Finn Master's Personal Site" />
+			</Head>
 			<Color colors={colors} />
 			<Hero />
 			{/* <Looking /> */}
