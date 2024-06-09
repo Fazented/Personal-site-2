@@ -4,6 +4,7 @@ import About 		from '../components/sections/index/about'
 import Technical 	from '../components/sections/index/technical'
 import Career 		from '../components/sections/index/career'
 import FeaturedProjects	from '../components/sections/projects/featured'
+import Head from 'next/head';
 
 import Color 		from '../components/utils/page.colors.util'
 
@@ -14,6 +15,10 @@ export default function HomePage() {
 
 	return (
 		<>
+			<Head>
+				<title>Finn Masters</title>
+				<meta name="description" content="Finn Master's Personal Site" />
+			</Head>
 			<Color colors={colors} />
 			<Hero />
 			{/* <Looking /> */}
