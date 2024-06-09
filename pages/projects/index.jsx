@@ -53,7 +53,7 @@ export async function getServerSideProps({ res }) {
 
         repos = repos.filter(e => !e.topics.includes('github-config') && e.language)
 
-        // Limit the repos to the most recent 3
+        // Limit the repos to the most recent 4
         repos = repos.slice(0, 4)
     }
 
