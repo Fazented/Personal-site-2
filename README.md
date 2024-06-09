@@ -17,9 +17,10 @@
 This site is still under active development and is in the Beta phase. It is ready to be forked if you are familiar with React and Next.
 
 - [x] Add a git repos section on projects page
+- [ ] Add Favicon and polish UI theme and icons
+- [ ] Add title to pages 
 - [ ] Update about me from the placeholder
 - [ ] Update technical skills section from placeholder
-- [ ] Add Favicon and polish UI theme and icons
 - [ ] Add current projects instead of placeholder projects
 
 #### Pages
