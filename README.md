@@ -9,7 +9,7 @@
   <br><br>
 </div>
 
-<img style="border-radius: 20px; box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.4); " src=/public/img/sitepic08.06.24.png >
+<img style="border-radius: 20px; box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.4); " src=/public/img/sitepic09.06.24.png >
 
 <h2 class="text-shadow: 2px 2px 4px #000000;">Updates</h1>
 
